@@ -1,4 +1,4 @@
-# Emotion Recognition with PyTorch
+# Emotion Recognition using PyTorch
 
 In this project, we aim to build a model that can recognize human emotions (e.g., anger, happiness, fear, etc.) from facial images. This provides an excellent opportunity to practice building and training a neural network using the **PyTorch** framework.
 
